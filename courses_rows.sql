@@ -1,0 +1,1 @@
+INSERT INTO "public"."courses" ("id", "title", "description", "is_free", "price", "access_type", "owner_id", "tags", "views_count", "is_promoted", "created_at") VALUES ('1e8ef768-47b6-4b7d-906a-41d65c8635d7', 'абуабу', 'курс про тест1 ', 'false', '100', 'paid', '2c63b8fb-48a5-409f-b51b-e32037ce93b1', '"{]}', '0', 'false', '2025-05-31 06:24:10.07891');
